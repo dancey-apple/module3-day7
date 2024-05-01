@@ -1,0 +1,15 @@
+Testing Types
+- Unit Testing
+    * Most basic and arguably most important. Thought of the least. 
+    * Tests each function block to make sure it functions/errors as expectd.
+    * Meant to test single functions at a time. (Sometimes multiple test per block)
+    * Allow you to make changes to the codebase without scaring devs :D
+- Integration Testing
+    * Test the interaction between different parts of the code base.
+- E2E Testing
+ * End to End test
+ * QA sees the most "sexyest" or the most fun to watch.
+ * Test an entire workflow
+ * Traditionally done by manual testers, being automated anymore. 
+ * Problem: Sophistocated system have infinate outcomes.
+    * Test major paths
